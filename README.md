@@ -6,7 +6,7 @@ A production-ready Django REST Framework backend for diagnostic test booking and
 
 ## Project Overview
 
-EVE Healthcare Backend is a complete system for managing diagnostic test bookings with integrated payment processing, JWT authentication, and asynchronous webhook handling. This is a full-featured backend solution demonstrating enterprise-level software engineering practices.
+It is a complete system for managing diagnostic test bookings with integrated payment processing, JWT authentication, and asynchronous webhook handling. This is a full-featured backend solution demonstrating enterprise-level software engineering practices.
 
 ## Features Implemented
 
